@@ -40,3 +40,8 @@ play some song
 I would like to hear a song
 I love listening to Metallica
 play something rocking
+Set the mood
+Activate barn door protocol
+Deactivate barn door protocol
+Drop my needle
+
